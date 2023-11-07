@@ -1,11 +1,58 @@
-*{
-    margin:0;
-    padding:0;
+* {
+    margin: 0;
+    padding: 0;
 }
 
-.mainsectioncontainer{
-    
+.mainsectioncontainer {
+
     height: 70vh;
     background-color: #f8edd7;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+}
+
+.photo {
+    height: 30vh;
+    margin-left: 4vh;
+
+}
+
+.coachboss1 {
+    height: 50vh;
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-around;
+    margin-left: 4vh;
+
+}
+
+.title1 {
+   /* border-color: #a26262;
+    border-style: solid;*/
+    color: #a26262
+}
+.coachboss2 {
+    height: 50vh;
+    display: flex;
+    flex-direction:column ;
+    justify-content: space-around;
+    margin-right: 4vh;
+
+}
+.title2 {
+   /* border-color: #7e8945;
+    border-style: solid;*/
+    color: #7e8945
+}
+
+
+.start{
+width: 28vh;
+height: 7vh;
+border-radius: 50vh
 
 }
