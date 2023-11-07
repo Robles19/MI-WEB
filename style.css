@@ -2,3 +2,48 @@
     margin: 0;
     padding: 0;
 }
+
+.navbarcontainer{
+
+    height: 12vh;
+    background-color: #ffffff;
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+    margin-left:6vh;
+    margin-right:10vh;
+    /*justify-content: space-around;*/
+
+}
+.marca{
+    width: 25vh;
+}
+
+.buttonbox{
+
+    width:50vh;
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.button1{
+
+    border: none;
+    background-color: #ffffff;
+}
+.button2{
+
+    border: none;
+    background-color: #ffffff;
+}
+.button3{
+
+    border: none;
+    background-color: #ffffff;
+}
+.button4{
+
+    border: none;
+    background-color: #ffffff;
+}
