@@ -31,9 +31,9 @@
 
     border: none;
     background-color: #ffffff;
+    
    /* text-decoration: underline;*/
 }
-
 
 .button2{
 
@@ -41,6 +41,7 @@
     background-color: #ffffff;
     
 }
+
 .button3{
 
     border: none;
@@ -57,4 +58,12 @@
 
     border: none;
     background-color: #ffffff;
+}
+.pestañas1{
+    font-size:1.5vh ; 
+    color:#a26262 ;
+}
+.pestañas2{
+    font-size:1.5vh ; 
+    color:#7e8945 ;
 }
